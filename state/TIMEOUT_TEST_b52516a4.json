@@ -1,0 +1,19 @@
+{
+  "run_id": "TIMEOUT_TEST_b52516a4",
+  "scenario_id": "TIMEOUT_TEST",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AGENT. Process refund requests using the available tools and refund policy."
+    },
+    {
+      "role": "user",
+      "content": "Please process refund for ORD-100048"
+    }
+  ],
+  "iteration": 0,
+  "token_count": 0,
+  "tool_count": 0,
+  "status": "FALLBACK_TIMEOUT",
+  "answer": ""
+}
